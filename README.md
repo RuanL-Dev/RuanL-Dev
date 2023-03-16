@@ -3,7 +3,9 @@
 
 
 - 🔭 I’m currently working on Front-End and Back-End
-- 🌱 I’m currently learning ReactJS and NodeJS
+- 🌱 Proficient in JavaScript + TypeScript // ReactJS + NodeJS + NextJS + Express
+- ⚡ SQL / NoSQL + MongoDB (Mongoose)
+- ⚡ SASS/SCSS + Styled-Components
 - 👯 I’m collaborating with AlunosSejaDev developing a WebSite for Challenge do Bem! - reach at https://github.com/AlunosSejaDev/challenge-do-bem-reactJS
 - 📫 How to reach me: ruanlopes21@gmail.com or https://www.linkedin.com/in/ruanl-dev
 
