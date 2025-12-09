@@ -25,4 +25,17 @@
 
 ### <picture> <img src = "https://github.com/RuanL-Dev/Programming_Images_Profile/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
+<p align="center"> 
+  &emsp; 
+  <a> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
+  </a>
+  &emsp;
+  <a> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+   </a>
+  &emsp;
+
+</p>
+
 
