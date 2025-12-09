@@ -1,12 +1,16 @@
-### Hi Folks 👋
-## I'm Ruan Lopes, a Full Stack Developer :)
+<h1 align="center">Hi , I'm Ruan Gomes, a Full Stack Developer </h1>
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- 🔭 I’m currently working on Front-End and Back-End
-- 🌱 Proficient in JavaScript + TypeScript // ReactJS + NodeJS + NextJS + Express
-- ⚡ SQL / NoSQL + MongoDB (Mongoose)
-- ⚡ SASS/SCSS + Styled-Components
-- 👯 I’m collaborating with AlunosSejaDev developing a WebSite for Challenge do Bem! - reach at https://github.com/AlunosSejaDev/challenge-do-bem-reactJS
+- 🔭 Full-Stack focused on Java + Spring Boot and ReactJS | Software engineer 🤖
+- :technologist: I love using Software as a solution for every `Problem`.
+- :heart: Lover of Technology and coding 
+- :nerd_face: Always `learning new things`.
+- 🌱 Proficient in Java 17+ and Spring Boot | ReactJS | JavaScript | NodeJS
+- ⚡ PostgreSQL and SQL / NoSQL + MongoDB (Mongoose)
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://docs.google.com/document/d/1BSaGgqvS9lsVgRaebroKN8Nmr1e3n1Rw/edit?usp=drivesdk&ouid=104543196418845580764&rtpof=true&sd=true).
+- :boom: You can visit [MY WEBSITE](https://portfolio-ruan-lopes.vercel.app/).
 - 📫 How to reach me: ruanlopes21@gmail.com or https://www.linkedin.com/in/ruanl-dev
 
 
