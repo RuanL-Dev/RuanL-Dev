@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Ruan Gomes, a Full Stack Developer 🤖 </h1>
+<h1 align="center">Hi , I'm Ruan Gomes, a Full Stack Developer </h1>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
@@ -21,11 +21,8 @@
 	<a href="https://api.whatsapp.com/send?phone=5521965080545&text=Oi, vi seu perfil no Github..." target="_blank"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 </p>
 
+## 🛠️ My Skills
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ruan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ruan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ruan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ruan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+### <picture> <img src = "https://github.com/RuanL-Dev/Programming_Images_Profile/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+
 
