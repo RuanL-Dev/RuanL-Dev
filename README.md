@@ -8,7 +8,7 @@
 - :heart: Lover of Technology and coding 
 - :nerd_face: Always `learning new things`.
 - 🌱 Proficient in Java 17+ and Spring Boot | ReactJS | JavaScript | NodeJS
-- ⚡ PostgreSQL and SQL / NoSQL + MongoDB (Mongoose)
+- ⚡ PostgreSQL and SQL / NoSQL - MongoDB
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://docs.google.com/document/d/1BSaGgqvS9lsVgRaebroKN8Nmr1e3n1Rw/edit?usp=drivesdk&ouid=104543196418845580764&rtpof=true&sd=true).
 - :boom: You can visit [MY WEBSITE](https://portfolio-ruan-lopes.vercel.app/).
 - 📫 How to reach me: ruanlopes21@gmail.com or https://www.linkedin.com/in/ruanl-dev
