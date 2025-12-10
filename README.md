@@ -111,7 +111,7 @@
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=plastic&logo=postman&logoColor=white"></a>
 </p>
 
-### <picture> <img src = "https://github.com/RuanL-Dev/Programming_Images_Profile/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> Databases & Testing
+### <picture> <img src = "https://github.com/RuanL-Dev/Programming_Images_Profile/blob/main/Images/ezgif.com-speed.gif?raw=true" width = 50px>  </picture> Databases & Testing
 
 <p align="center">
   	&emsp;
