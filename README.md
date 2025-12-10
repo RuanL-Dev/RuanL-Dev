@@ -11,7 +11,7 @@
 - ⚡ PostgreSQL and SQL / NoSQL - MongoDB
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://docs.google.com/document/d/1BSaGgqvS9lsVgRaebroKN8Nmr1e3n1Rw/edit?usp=drivesdk&ouid=104543196418845580764&rtpof=true&sd=true).
 - :boom: You can visit [MY WEBSITE](https://portfolio-ruan-lopes.vercel.app/).
-- 📫 How to reach me: ruanlopes21@gmail.com or https://www.linkedin.com/in/ruanl-dev
+- 📫 How to reach me: ruanlopes21@gmail.com or https://www.linkedin.com/in/ruan-lopes-java-react-javascript/
 
 ## <picture> <img src="https://github.com/RuanL-Dev/Programming_Images_Profile/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
