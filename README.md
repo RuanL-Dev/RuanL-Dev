@@ -35,6 +35,14 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
   &emsp;
+	<a>
+	  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?style=plastic&logo=spring&logoColor=white">
+	</a>	  
+	&emsp;				
+	<a>
+		<img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=plastic&logo=springboot&logoColor=white">
+	</a>
+				
 </p>
 
 ### <picture> <img src = "https://github.com/RuanL-Dev/Programming_Images_Profile/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
@@ -42,37 +50,80 @@
 <p align="center"> 
   &emsp; 
   <a> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
+   		<img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
   </a>   
   &emsp;
   <a>
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+		<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
   </a> 
   &emsp;
   <a>
-    <img alt="Python" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
+		<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?style=plastic&logo=nextdotjs&logoColor=white">
+  </a>
+	&emsp;
+  <a>
+		<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=plastic&logo=tailwindcss&logoColor=white">
   </a>
   &emsp;
   <a> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+     	<img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
    </a>
+	&emsp;
+  <a> 
+     	<img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
+   </a>
+	&emsp;
+</p>
+
+### <picture> <img src = "https://github.com/RuanL-Dev/Programming_Images_Profile/blob/main/Images/watermarked-eea408b1-54e3-4b0a-b7fc-8c16a4686538-ezgif.com-speed.gif?raw=true" width = 50px>  </picture> Backend Development
+
+<p align="center"> 
+  &emsp;
+	<a><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=plastic&logo=springboot&logoColor=white"></a>	  
+	&emsp;
+	<a><img alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security-6DB33F.svg?style=plastic&logo=springsecurity&logoColor=white"></a>
+	&emsp;	
+	<a><img alt="Hibernate JPA" src="https://img.shields.io/badge/Hibernate%20JPA-59666C.svg?style=plastic&logo=hibernate&logoColor=white"></a>
+	&emsp;				
+	<a><img alt="Maven" src="https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=plastic&logo=apachemaven&logoColor=white"></a>
+	&emsp;				
+	<a><img alt="OpenAPI/Swagger" src="https://img.shields.io/badge/OpenAPI%20%2F%20Swagger-85EA2D.svg?style=plastic&logo=swagger&logoColor=black"></a>
+	&emsp;				
+	<a><img alt="JWT" src="https://img.shields.io/badge/JWT-000000.svg?style=plastic&logo=jsonwebtokens&logoColor=white"></a>
 </p>
 
  ### <picture> <img src = "https://github.com/RuanL-Dev/Programming_Images_Profile/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
 
  <p align="center">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
-  &emsp;
+	&emsp;
+	 	<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=plastic&logo=docker&logoColor=white"></a>
+	&emsp;
+    	<a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=plastic&logo=githubactions&logoColor=white"></a>
+	&emsp;
+    	<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+	&emsp;
+    	<a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+	&emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
+	&emsp;
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
+	&emsp;
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=plastic&logo=postman&logoColor=white"></a>
+</p>
+
+### <picture> <img src = "https://github.com/RuanL-Dev/Programming_Images_Profile/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> Databases & Testing
+
+<p align="center">
+  	&emsp;
+    	<a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?style=plastic&logo=postgresql&logoColor=white"></a>
+  	&emsp;
+    	<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=plastic&logo=mysql&logoColor=white"></a>
+  	&emsp;
+    	<a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=plastic&logo=mongodb&logoColor=white"></a>
+	&emsp;
+    	<a href="#"><img alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162.svg?style=plastic&logo=junit5&logoColor=white"></a>
+	&emsp;
+    	<a href="#"><img alt="Mockito" src="https://img.shields.io/badge/Mockito-23B3E8.svg?style=plastic&logo=matrix&logoColor=white"></a>
 </p>
 
 ### <picture> <img src = "https://github.com/RuanL-Dev/Programming_Images_Profile/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
@@ -81,10 +132,11 @@
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
+    <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=plastic&logo=intellijidea&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>
+
 
  ### <picture> <img src = "https://github.com/RuanL-Dev/Programming_Images_Profile/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
 
